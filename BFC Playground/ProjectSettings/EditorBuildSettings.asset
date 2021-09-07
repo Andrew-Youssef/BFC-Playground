@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreenWithCube.unity
+    guid: 4ae0366a9c43704418f3b9b047fbdbb0
+  - enabled: 1
+    path: Assets/Scenes/StatsScreen.unity
+    guid: 85857976bf716094db84f540ebe30bcd
+  - enabled: 1
+    path: Assets/Scenes/CreditsScreen.unity
+    guid: d402c17831262954c915b0bf4f0f650b
+  - enabled: 1
+    path: Assets/Scenes/MemoryGame.unity
+    guid: 4d641b7319ac7a746b9d3c9225edd93f
+  - enabled: 1
+    path: Assets/Scenes/MemoryRegularGames/MemoryGameRegularEasy.unity
+    guid: 4dc1e767ae824ab4185d147e5a962dde
+  - enabled: 1
+    path: Assets/Scenes/MemoryRegularGames/MemoryGameRegularMedium.unity
+    guid: d9a4d652db5adde478663354aa32efbd
+  - enabled: 1
+    path: Assets/Scenes/MemoryRegularGames/MemoryGameRegularHard.unity
+    guid: b2d75091baed0cd4cb5f36e342ec5b75
+  - enabled: 1
+    path: Assets/Scenes/MemorySuddenDeathGames/MemoryGameSuddenDeathEasy.unity
+    guid: d4a680f9192d5104ba748c39af6141a4
+  - enabled: 1
+    path: Assets/Scenes/MemorySuddenDeathGames/MemoryGameSuddenDeathMedium.unity
+    guid: 30817a2ee5df19f4790eecabf2a0d560
+  - enabled: 1
+    path: Assets/Scenes/MemorySuddenDeathGames/MemoryGameSuddenDeathHard.unity
+    guid: cf323dd83b62c234e8f944349643d31b
+  - enabled: 1
+    path: Assets/Scenes/HigherOrLower.unity
+    guid: 35f787269f0679a4687f63b9c9e15d58
+  - enabled: 1
+    path: Assets/Scenes/HigherOrLowerRegularGames/HigherOrLowerRegularEasy.unity
+    guid: ed443064094ba8646bc1c2de4bf0255e
+  - enabled: 1
+    path: Assets/Scenes/HigherOrLowerRegularGames/HigherOrLowerRegularMedium.unity
+    guid: f5e0b39931dc39a4fb84b3c7ab170ff2
+  - enabled: 1
+    path: Assets/Scenes/HigherOrLowerRegularGames/HigherOrLowerRegularHard.unity
+    guid: 5f3fdf456cf43714c81073bd09fb6903
+  - enabled: 1
+    path: Assets/Scenes/HigherOrLowerSuddenDeathGames/HigherOrLowerSuddenDeathEasy.unity
+    guid: 10056d7b322b44445822244614f0b193
+  - enabled: 1
+    path: Assets/Scenes/HigherOrLowerSuddenDeathGames/HigherOrLowerSuddenDeathMedium.unity
+    guid: 526671dcf3bdfe74b846e0e6919e33a9
+  - enabled: 1
+    path: Assets/Scenes/HigherOrLowerSuddenDeathGames/HigherOrLowerSuddenDeathHard.unity
+    guid: 07f437abd47e89b44856fd09744b63d7
+  - enabled: 1
+    path: Assets/Scenes/ProfilePicGuesser.unity
+    guid: 823894ddddbc9ee47a6970c5b1648427
+  - enabled: 1
+    path: Assets/Scenes/ProfilePicGuesserRegularGames/ProfilePicGuesserRegularEasy.unity
+    guid: 6d1736d5afc83424391f14d34df900d0
+  - enabled: 1
+    path: Assets/Scenes/ProfilePicGuesserRegularGames/ProfilePicGuesserRegularMedium.unity
+    guid: b61ed97809bdaa84ca97ecfa29f35598
+  - enabled: 1
+    path: Assets/Scenes/ProfilePicGuesserRegularGames/ProfilePicGuesserRegularHard.unity
+    guid: 09ec3784964c3654a92f48eb5914a375
+  - enabled: 1
+    path: Assets/Scenes/ProfilePicGuesserSuddenDeathGames/ProfilePicGuesserSuddenDeathEasy.unity
+    guid: 57c7ca123e093ca4295f090c961d1848
+  - enabled: 1
+    path: Assets/Scenes/ProfilePicGuesserSuddenDeathGames/ProfilePicGuesserSuddenDeathMedium.unity
+    guid: 85d7d91ddd1a8874c903070614684a9b
+  - enabled: 1
+    path: Assets/Scenes/ProfilePicGuesserSuddenDeathGames/ProfilePicGuesserSuddenDeathHard.unity
+    guid: 2727aff1000e5a6498168bb710731221
+  - enabled: 1
+    path: Assets/Scenes/NameGuesser.unity
+    guid: 33e231eaad760b84db40dc93e711ea9b
+  - enabled: 1
+    path: Assets/Scenes/NameGuesserRegularGames/NameGuesserRegularEasy.unity
+    guid: d2ea78aa6d2cbdd4886918e9deb903ab
+  - enabled: 1
+    path: Assets/Scenes/NameGuesserRegularGames/NameGuesserRegularMedium.unity
+    guid: 2958c954dc8c7a649a188303fb61b4ec
+  - enabled: 1
+    path: Assets/Scenes/NameGuesserRegularGames/NameGuesserRegularHard.unity
+    guid: 161a8c3ba2ff7d44d9e790b26019ba83
+  - enabled: 1
+    path: Assets/Scenes/NameGuesserSuddenDeathGames/NameGuesserSuddenDeathEasy.unity
+    guid: 899c53c79d401004e94def987b4541a0
+  - enabled: 1
+    path: Assets/Scenes/NameGuesserSuddenDeathGames/NameGuesserSuddenDeathMedium.unity
+    guid: 1a24a144c5277c14785b0fc072417a53
+  - enabled: 1
+    path: Assets/Scenes/NameGuesserSuddenDeathGames/NameGuesserSuddenDeathHard.unity
+    guid: 2c36f838ea271eb4498c7e1312a3e8cd
+  m_configObjects: {}
